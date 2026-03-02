@@ -1,0 +1,10 @@
+.container {
+    position: relative;
+}
+aside {
+    position: absolute;
+    width: 250px;
+}
+main {
+    margin-left: 260px;
+}
